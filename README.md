@@ -1,5 +1,7 @@
 ## Hey👋 What's up? 
 
+![image alt](https://github.com/anisahdaeli/anisahdaeli/blob/22cd14a5c0b8a7d0e905f186f624faa56a1782a5/my%20banner.png)
+
 - 🔭 I’m currently working on ...
 **Data analysis and machine learning projects**
   
