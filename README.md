@@ -12,13 +12,15 @@
 - ⚡ Fun fact: ...
 **I enjoy turning complex data into meaningful insights — and I’m always excited to learn something new 🚀**
 
-<div align="left">
-</div>
+!<-- https://github.com/tandpfun/skill-icons -->
+<h5 align="left">Language and tools</h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-<h5 align="left">Connect with me</h5>
-![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
 
 <h5 align="left">Language and tools</h5>
 
