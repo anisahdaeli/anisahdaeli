@@ -1,6 +1,6 @@
 ## Hey👋 What's up? 
 
-![image alt](https://github.com/anisahdaeli/anisahdaeli/blob/22cd14a5c0b8a7d0e905f186f624faa56a1782a5/my%20banner.png)
+<img width="3038" height="1294" alt="my banner" src="https://github.com/user-attachments/assets/c67889a7-9c7e-4d6a-9bad-85d4c7e07fff" />
 
 - 🔭 I’m currently working on ...
 **Data analysis and machine learning projects**
