@@ -12,6 +12,7 @@
 <!-- ================= DATA SCIENCE & MACHINE LEARNING ================= -->
 <h5 align="center">🧠 Data Science & Machine Learning</h5>
 <div align="center">
+  <!-- Core Data Science -->
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" />
@@ -28,6 +29,18 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
 </div>
+
+<!-- ================= BI & DATA ANALYTICS ================= -->
+<div align="center">
+  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RapidMiner-FF6600?style=for-the-badge&logo=databricks&logoColor=white"/>
+</div>
+
+
 
 <!-- ================= PROGRAMMING LANGUAGES ================= -->
 <h5 align="center">💻 Programming Languages</h5>
