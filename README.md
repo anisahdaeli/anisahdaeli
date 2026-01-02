@@ -1,5 +1,6 @@
 ## Hey👋 What's up? 
 
+<!-- https://github.com/leviarista/github-profile-header-generator -->
 <img width="3038" height="1294" alt="my banner" src="https://github.com/user-attachments/assets/c67889a7-9c7e-4d6a-9bad-85d4c7e07fff" />
 
 - 🔭 I’m currently working on ...
@@ -14,11 +15,12 @@
 <div align="left">
 </div>
 
-###
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-<h5 align="left">Language and Tools</h5>
+<h5 align="left">Connect with me</h5>
+![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
 
-###
+<h5 align="left">Language and tools</h5>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
